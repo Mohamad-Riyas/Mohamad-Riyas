@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="https://mohamad-riyas.github.io/My-Portfolio/">
+<a href="https://mohamad-riyas.github.io">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mohamad-riyas-94735b350/">
