@@ -261,7 +261,7 @@ Let's connect, collaborate, and build something meaningful together!
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://mohamad-riyas.github.io/My-Portfolio/">
+<a href="https://mohamad-riyas.github.io">
 <img src="https://img.shields.io/badge/Portfolio-Explore-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
